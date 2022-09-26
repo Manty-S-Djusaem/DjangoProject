@@ -23,7 +23,7 @@
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
-        <option value="$MODULE_DIR$/../Cars\templates" />
+        <option value="$USER_HOME$/Cars\templates" />
       </list>
     </option>
   </component>
